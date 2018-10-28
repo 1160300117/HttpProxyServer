@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DELL/Desktop/2018-2019/experiment1/main.cpp
+Windows.h
+-
+process.h
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+errno.h
+-
+sys/types.h
+-
+sys/time.h
+-
+sys/types.h
+-
+thread
+-
+unistd.h
+-
+

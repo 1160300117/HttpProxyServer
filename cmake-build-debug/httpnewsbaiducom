@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Type: text/html;charset=utf-8
+Date: Tue, 23 Oct 2018 13:00:45 GMT
+Server: Apache
+Tracecode: 00450269170353441546102321
+Tracecode: 00449867360229320202102321
+Vary: Accept-Encoding
+X-Bd-Api: news_index
+X-Bd-Status: 200
+Transfer-Encoding: chunked
+
+eb2
+‹

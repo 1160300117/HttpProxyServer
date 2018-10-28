@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+P3P: policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+Timing-Allow-Origin: *
+Vary: Accept-Encoding
+Date: Tue, 23 Oct 2018 12:23:23 GMT
+Expires: Tue, 23 Oct 2018 12:23:23 GMT
+Cache-Control: private, max-age=3600
+Content-Type: text/javascript; charset=UTF-8
+ETag: 7384606119798263904
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Content-Encoding: gzip
+Server: cafe
+Content-Length: 28202
+X-XSS-Protection: 1; mode=block
+
+‹

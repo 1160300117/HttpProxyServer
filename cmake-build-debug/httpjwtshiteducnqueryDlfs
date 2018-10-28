@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Cache-Control: no-store
+Date: Tue, 23 Oct 2018 14:24:05 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Length: 1
+Content-Type: text/plain;charset=ISO-8859-1
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: name=value; HttpOnly
+X-Powered-By: Servlet/2.5 JSP/2.1
+
+0001
+2
+0000
+
+30729)
+If-Modified-Since: Tue, 23 Oct 2018 13:06:31 GMT
+Host: jwts.hit.edu.cn
+Content-Length: 0
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: name=value; clwz_blc_pst=117444780.24859; JSESSIONID=ZsqmbPvF1JJX0z3XryGsVrv66j2TxhrXwnk93GRhL06nsJz1rQvg!-204215536
+

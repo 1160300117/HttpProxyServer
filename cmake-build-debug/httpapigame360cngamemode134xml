@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Tue, 23 Oct 2018 13:07:37 GMT
+Expires: Tue, 23 Oct 2018 14:07:37 GMT
+Content-Length: 2923
+Content-Type: text/xml
+Last-Modified: Tue, 23 Oct 2018 12:00:19 GMT
+Cache-Control: max-age=3600
+Connection: Keep-Alive
+Vary: Accept-Encoding
+ETag: W/"5bcf0d53-b6b"
+Server: nginx
+X-Varnish: 1097085235
+Via: 1.1 varnish
+X-Varnish-Hits: 0
+X-Varnish-Cache: MISS
+Fw-Cache-Status: hit
+Fw-Via: DISK HIT from 115.231.47.37, DISK HIT from 115.231.47.35, DISK HIT from 125.39.5.24
+
+»¥

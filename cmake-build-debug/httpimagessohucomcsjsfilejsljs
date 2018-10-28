@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: NWS_TCloud_S1
+Connection: keep-alive
+Date: Tue, 23 Oct 2018 14:36:13 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 23 Oct 2018 15:36:13 GMT
+Last-Modified: Tue, 02 Aug 2016 06:36:32 GMT
+Content-Type: application/javascript
+Content-Length: 14000
+Content-Encoding: gzip
+X-NWS-LOG-UUID: 2a11581e-9468-4518-863b-12c3db529efb edb2b83f63397810a0449ca2a36468c2
+X-Daa-Tunnel: hop_count=3
+X-Cache-Lookup: Hit From Upstream
+X-Cache-Lookup: Hit From Disktank3 Gz
+Accept-Ranges: bytes
+X-Cache-Lookup: Hit From Inner Cluster 
+
+4138.1538884138.30; gn12=w:1; sohutag=8HsmeSc5NCwmcyc5NCwmYjc5NCwmYSc5NCwmZjc5NCwmZyc5NCwmbjc5NSwmaSc5NCwmdyc5NCwmaCc5NCwmYyc5NCwmZSc5NCwmbSc5NCwmdCc5NH0
+
